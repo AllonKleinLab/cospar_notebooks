@@ -11,3 +11,11 @@ To download these notebooks, please run the following command in the terminal::
 	git clone https://github.com/AllonKleinLab/cospar_notebooks/tree/master
 
 These files will be then downloaded to the local directory. 
+
+
+
+.. |PyPI| image:: https://img.shields.io/pypi/v/cospar.svg
+   :target: https://pypi.org/project/cospar
+
+.. |Docs| image:: https://readthedocs.org/projects/cospar/badge/?version=latest
+   :target: https://cospar.readthedocs.io
