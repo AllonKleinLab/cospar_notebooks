@@ -4,7 +4,7 @@
    :width: 300px
    :align: left
 
-These are jupyter notebooks associated with package CoSpar, a dynamic inference tool that integrates state and lineage information. See `<https://cospar.readthedocs.io>`_ for documentation and tutorials.
+These are jupyter notebooks associated with the package CoSpar, a dynamic inference tool that integrates state and lineage information. See `<https://cospar.readthedocs.io>`_ for documentation and tutorials.
 
 To download these notebooks, please run the following command in the terminal::
 	
