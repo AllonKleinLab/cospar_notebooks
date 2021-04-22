@@ -8,7 +8,7 @@ These are jupyter notebooks associated with the package CoSpar, a dynamic infere
 
 To download these notebooks, please run the following command in the terminal::
 	
-	git clone https://github.com/AllonKleinLab/cospar_notebooks/tree/master
+	git clone https://github.com/AllonKleinLab/cospar_notebooks
 
 These files will be then downloaded to the local directory. 
 
